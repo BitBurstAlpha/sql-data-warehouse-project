@@ -66,9 +66,6 @@ This project involves:
 - Data Analytics
 
 ## 🚀 Project Requirements
-
-### 🏗️ Building the Data Warehouse (Data Engineering)
-
 #### 🎯 **Objective**
 Develop a modern **Data Warehouse** using **SQL Server** to consolidate sales data, enabling analytical reporting and data-driven decision-making.
 
